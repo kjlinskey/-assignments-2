@@ -1,0 +1,7 @@
+- Data travels across the internet in packets.  Each packet can carry a maximum of 1,500 bytes.  Packets will travel from one machine to another until they reach their destination.
+
+- An IP address is an address assigned to any computer (including servers) to identify it on a given network.  A DNS address is a Domain Name Service which is used to convert alphabetic references into a server's IP address generally for hosting services.
+
+- A cookie is just one or more pieces of information stored as text strings on your machine.  A web server sends you a cookie and the browser then returns the cookie to the server the next time the page is referenced.
+
+- The three basic parts of a URL are the protocol, the domain name and the path.
